@@ -1,0 +1,5 @@
+[gd_resource type="FontFile" format=3 uid="uid://c8fanowly639s"]
+
+# Fonte padrão do motor — não requer arquivo externo.
+# Mantido como recurso separado para ser referenciado pela cena principal.
+fallbacks = Array[Font]([])

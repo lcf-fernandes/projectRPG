@@ -1,0 +1,13 @@
+# Godot 4 — arquivos gerados/temporários
+.godot/
+export/
+*.import
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE
+.vscode/
+.idea/
